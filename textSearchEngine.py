@@ -1,5 +1,10 @@
+#Auther: Junfu Cheng
+#Organization: University of Florida
+
 import numpy as np
 from collections import Counter
+
+
 
 class textSearchEngine:
     def __init__(self, vocabulary, documents, counts):
