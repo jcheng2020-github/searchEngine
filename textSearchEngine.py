@@ -1,4 +1,4 @@
-#Auther: Junfu Cheng
+#Author: Junfu Cheng
 #Organization: University of Florida
 
 import numpy as np
